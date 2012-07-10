@@ -1,4 +1,4 @@
-<h1><span style="text-decoration: line-through">compojure-rest</span>liberator</h1>
+<h1>liberator</h1>
 
 The project formerly called compojure-rest is now called __liberator__.
 
